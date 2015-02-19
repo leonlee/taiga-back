@@ -4,7 +4,7 @@
 ## 1.6.0 ??? (Unreleased)
 
 ### Features
-- ...
+- Support of export to CSV user stories, tasks and issues.
 
 ### Misc
 - Lots of small and not so small bugfixes.
